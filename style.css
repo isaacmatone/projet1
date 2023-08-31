@@ -1,0 +1,97 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  
+  body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins',Poppins;
+  }
+  
+  .parent {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-image: url(puturee/photoS.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  .corps {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly padding: 20px;
+  }
+  
+  .tete {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+  
+  }
+  
+  span {
+    background-color: #ed333b;
+    border-radius: 10px;
+    color: #fff;
+    font-size: 20px;
+  }
+  
+  .banner {
+    background-image: url('puturee/4898-wallpaper.jpg');
+  }
+  
+  .nouv {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  footer {
+    background-color: black;
+    font-family: 'Poppins';
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  
+  .foots {
+    display: flex;
+    flex-direction: row;
+  
+  }
+  
+  .resau>img {
+    width: 15px;
+    height: 15px;
+  }
+  
+  .aa {
+    display: flex;
+  }
+  
+  .aa>img {
+    height: 300px;
+    width: 50%;
+  }
+  
+  .a11 {
+    height: 300px;
+    overflow: scroll;
+  }
+  
+  .bb {
+    display: flex;
+    margin-top: 50px;
+  }
+  
+  .bb>img {
+    height: 300px;
+    width: 50%;
+  }
+  
+  .b11 {
+    height: 300px;
+    overflow: scroll;
+  }
